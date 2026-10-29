@@ -42,7 +42,7 @@ The following models were evaluated:
 4. Ridge Regression
 5. Decision Tree Regression
 
-The models were compared using Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and the coefficient of determination (R²). Five-fold cross-validation was also used to assess model performance.
+The models were compared using Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and the coefficient of determination (R^2). Five-fold cross-validation was also used to assess model performance.
 
 ## 4. Best Model
 
@@ -52,7 +52,7 @@ Its evaluation results were:
 
 - **MAE:** KES 13,714.40
 - **RMSE:** KES 17,458.82
-- **R²:** 0.8705
+- **R^2:** 0.8705
 
 The five-fold cross-validation results for Ridge Regression were:
 
